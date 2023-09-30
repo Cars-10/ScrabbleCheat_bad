@@ -1,0 +1,6 @@
+^[A-Z][A-Z]*$
+^[A-Z][A-Z]*DL$
+^[A-Z][A-Z]*TL$
+^[A-Z][A-Z]*DW$
+^[A-Z][A-Z]*TW$
+
